@@ -1,0 +1,19 @@
+nav {
+  background-image: url("../images/Header.png");
+  background-repeat: no-repeat
+  background-attachment: fixed;
+  background-size: cover;
+}
+#main {
+  background-color: #732D6B
+}
+body {
+  background-image: url("../images/background.png");
+  background-repeat: no-repeat
+  background-attachment: fixed;
+  background-size: cover;
+
+body {
+  font-family: 'Times New Roman', serif;
+  background-color: blue
+}
