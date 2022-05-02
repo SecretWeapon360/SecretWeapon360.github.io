@@ -5,15 +5,21 @@ nav {
   background-size: cover;
 }
 #main {
-  background-color: #732D6B
+  background-color: #732D6B;
+  margin-top:70px;
+  padding-top:40px;
+  padding-bottom:40px;
 }
 body {
   background-image: url("../images/background.png");
   background-repeat: no-repeat
   background-attachment: fixed;
   background-size: cover;
-
-body {
-  font-family: 'Times New Roman', serif;
-  background-color: blue
+}
+#buttontop{
+  margin-bottom: -50px;
+}
+#buttonmain{
+  margin-top: -30px;
+  margin-bottom: 20px;
 }
