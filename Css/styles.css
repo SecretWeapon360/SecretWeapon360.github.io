@@ -7,6 +7,7 @@ nav {
 #main {
   background-color: #732D6B;
   margin-top:70px;
+  margin-bottom:70px;
   padding-top:40px;
   padding-bottom:40px;
 }
@@ -22,4 +23,13 @@ body {
 #buttonmain{
   margin-top: -30px;
   margin-bottom: 20px;
+}
+#shoppingmain{
+  background-color: white;
+  border: 10px;
+  border-color: #732D6B;
+  margin-top:70px;
+  margin-bottom:70px;
+  padding-top:20px;
+  padding-bottom:40px;
 }
